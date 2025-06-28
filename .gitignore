@@ -3,7 +3,7 @@ _pycache__/
 .env
 token_*.json
 token files/
-client_secret.json
+
 # Streamlit specific
 .streamlit/
 # Ignore the Streamlit configuration file
