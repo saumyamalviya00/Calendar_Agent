@@ -1,0 +1,12 @@
+_pycache__/
+*.pyc
+.env
+token_*.json
+token files/
+client_secret.json
+# Streamlit specific
+.streamlit/
+# Ignore the Streamlit configuration file
+ .streamlit/config.toml
+# Ignore the Streamlit secrets file
+ .streamlit/secrets.toml   
